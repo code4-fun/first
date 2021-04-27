@@ -1,0 +1,3 @@
+function(){
+	aletr('Hello all!');
+}
